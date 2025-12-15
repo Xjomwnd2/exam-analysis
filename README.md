@@ -82,6 +82,8 @@ For inquiries, admissions, or visits, please contact the school through the admi
 HEAD TEACHER: +254711141523
 
 ACADEMIC TEACHER: +254728663873
+
+ADMINISTRATION: +254718903461
 ---
 
 ## 📝 Admissions
