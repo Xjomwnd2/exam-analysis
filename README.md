@@ -100,5 +100,6 @@ At Neema Christian School, we are committed to shaping learners who excel academ
 
 Click the link below to see our school homepage:
 
-[🏫 Neema Christian School Home](./index.html)
+[Home Page](https://xjomwnd2.github.io/exam-analysis/)
+
 
