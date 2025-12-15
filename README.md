@@ -97,3 +97,8 @@ Admissions are open to learners who meet the school’s entry requirements. Pare
 At Neema Christian School, we are committed to shaping learners who excel academically, grow spiritually, and live out Christian values in their daily lives.
 
 > *“Train up a child in the way he should go, and when he is old he will not depart from it.”* – Proverbs 22:6
+
+Click the link below to see our school homepage:
+
+[🏫 Neema Christian School Home](./index.html)
+
